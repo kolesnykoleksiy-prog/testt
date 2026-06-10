@@ -1,4 +1,4 @@
-git add . git commit -m "Практична №3: реалізовано задачі та додано unit-тести" git push
+
 fn add(a: i32, b: i32) -> i32 {
     a + b
 }
